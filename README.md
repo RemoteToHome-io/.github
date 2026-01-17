@@ -20,12 +20,11 @@ Our repositories focus on practical, production-ready solutions for:
 
 ## Key Projects
 
-Current:
-
 - [wg-udp-relay](https://github.com/RemoteToHome-io/wg-udp-relay) - a simple private high-speed UDP intermediate relay for WireGuard VPN tunnels
 
 *Other projects are currently being migrated and organized. Check back soon for:*
 
+- AmneziaWG protocol support packages for the GL.iNet SlateAX (GL-AXT1800)
 - GL.iNet & OpenWRT router automation scripts and VPN/proxy protocol packages
 - Cloud VPN server & replay deployment templates
 - Troubleshooting workflows and diagnostic tools
