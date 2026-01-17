@@ -2,7 +2,7 @@
 
 **Self-Hosted VPN Solutions & Development**
 
-Welcome to the RemoteToHome.io GitHub organization. Here we develop and share open-source tools, configurations, and documentation for self-hosted VPN infrastructure, with a focus on GL.iNet and OpenWrt-based router solutions.  RemoteToHome is an official GL.iNet Services Partner, but these projects are not sponsored by or directly affilated with GL.iNet.  All screw-ups are ours alone.
+Welcome to the RemoteToHome.io GitHub organization. Here we develop and share open-source tools, configurations, and documentation for self-hosted VPN infrastructure, with a focus on GL.iNet and OpenWrt-based router solutions.  RemoteToHome Consulting (RTH) is an official GL.iNet Services Partner, but these projects are not sponsored by or directly affilated with GL.iNet.  All screw-ups are ours alone.
 
 ## Mission
 
