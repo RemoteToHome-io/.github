@@ -28,7 +28,7 @@ Our repositories focus on practical, production-ready solutions for:
 
 ## 🌐 Related Resources
 
-- **Personal & Business VPN Consulting Services**: [RemoteToHome.io](https://remotetohome.io) - Professional VPN consulting for digital nomads, expats, and businesses
+- **Personal & Business VPN Consulting Services**: <a href="https://remotetohome.io/" target="_blank">RemoteToHome.io</a> - Professional VPN consulting for digital nomads, expats, and businesses
 - **Blog & Guides**: [RemoteToHome.io Blog](https://remotetohome.io/blog) - Technical articles and troubleshooting guides at remotetohome.io
 
 ## Contributing
