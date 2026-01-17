@@ -1,4 +1,4 @@
-# RemoteToHome-io: The official GitHub of RemoteToHome Consulting
+# RemoteToHome-io is the official GitHub of RemoteToHome Consulting
 
 **Self-Hosted VPN Solutions & Development**
 
