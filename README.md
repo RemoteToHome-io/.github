@@ -18,7 +18,7 @@ Our repositories focus on practical, production-ready solutions for:
 - **VPN Protocols**: Implementation guides and tools for WireGuard, AmneziaWG, OpenVPN, and emerging protocols
 - **Relay & Proxy Solutions**: Advanced routing, policy-based configurations, and multi-hop setups
 
-## 📚 Key Projects
+## Key Projects
 
 *Projects are currently being migrated and organized. Check back soon for:*
 
@@ -26,7 +26,7 @@ Our repositories focus on practical, production-ready solutions for:
 - Cloud VPN server & replay deployment templates
 - Troubleshooting workflows and diagnostic tools
 
-## 🌐 Related Resources
+## Related Resources
 
 - **Personal & Business VPN Consulting Services**: [RemoteToHome.io](https://remotetohome.io/) - Professional VPN consulting for digital nomads, expats, and businesses
 - **Blog & Guides**: [RemoteToHome.io Blog](https://remotetohome.io/blog) - Technical articles and troubleshooting guides at remotetohome.io
