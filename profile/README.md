@@ -49,7 +49,7 @@ Please check individual repository guidelines for contribution standards. All co
 ## Legal & Ethics
 
 - All projects comply with applicable laws and regulations
-- We do endorse the use of our technology for illegal purposes
+- We do not endorse the use of our technology for illegal purposes
 - Tools are provided for legitimate privacy and networking purposes
 - Users are responsible for compliance with local laws when deploying solutions
 
