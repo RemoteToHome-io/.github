@@ -21,14 +21,9 @@ Our repositories focus on practical, production-ready solutions for:
 
 ## Key Projects
 
-- [wg-udp-relay](https://github.com/RemoteToHome-io/wg-udp-relay) - a simple private high-speed UDP intermediate relay for WireGuard VPN tunnels
+- [gl-tailscale-fix](https://github.com/RemoteToHome-io/gl-tailscale-fix) - Tailscale enhancements for GL.iNet routers — exit node advertisement, policy kill switch, guest network routing, and version management. Injects GUI controls into the existing admin panel without modifying any GL-owned files.
+- [wg-udp-relay](https://github.com/RemoteToHome-io/wg-udp-relay) - High-performance UDP relay for WireGuard VPN tunnels. Proven 2-4x speed improvements over direct connections through intelligent routing via well-connected datacenters.
 
-*Other projects are currently being migrated and organized. Check back soon for:*
-
-- AmneziaWG protocol support packages for the GL.iNet SlateAX (GL-AXT1800)
-- GL.iNet & OpenWRT router automation scripts and VPN/proxy protocol packages
-- Cloud VPN server & replay deployment templates
-- Troubleshooting workflows and diagnostic tools
 
 ## Related Resources
 
